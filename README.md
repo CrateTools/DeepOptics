@@ -6,7 +6,7 @@
 Made for Nuke 15.2, 15.1v1+ and 14
 
 #
-☕Please support this project☕ Thank You! https://buymeacoffee.com/nicolaslandajo
+☕Please support this project☕ Thank You! https://buymeacoffee.com/cratetools
 
 #
 youtube tutorial to start using it
